@@ -1,0 +1,7 @@
+COIN_NAME="tour"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="tourd"
+COIN_CLI="tour-cli"
+COIN_FOLDER="/root/.tour"
+COIN_CONFIG="tour.conf"
+COIN_SERVICE="tour.service"
